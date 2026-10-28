@@ -1,0 +1,8 @@
+metric,metric_value
+Rows in raw table,5050
+Rows in cleaned table,5000
+Duplicate rows removed,50
+Missing customer IDs,40
+Missing amounts,40
+Zero or negative amounts,30
+Nonstandard statuses,0

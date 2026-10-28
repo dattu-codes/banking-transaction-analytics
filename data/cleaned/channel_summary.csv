@@ -1,0 +1,6 @@
+channel,total_transactions,successful,failed,pending,reversed,success_rate_pct,successful_amount_inr,amount_quality_issues
+UPI,1043,246,275,271,251,23.59,9495173.97,15
+CARD,1021,253,260,254,254,24.78,9372397.63,14
+BANK_TRANSFER,998,241,251,252,254,24.15,9032668.23,13
+NET_BANKING,980,227,247,242,264,23.16,8488511.96,13
+ATM,958,247,237,234,240,25.78,8322574.24,15

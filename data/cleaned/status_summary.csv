@@ -1,0 +1,5 @@
+status,transaction_count,percentage_of_transactions
+FAILED,1270,25.4
+PENDING,1253,25.06
+REVERSED,1263,25.26
+SUCCESS,1214,24.28
